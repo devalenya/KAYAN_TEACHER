@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "263531169838",
+    "project_id": "kayan-teacher",
+    "storage_bucket": "kayan-teacher.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263531169838:android:2e502a65506137f2e9b7bf",
+        "android_client_info": {
+          "package_name": "com.kayan.teacher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263531169838-4p251u46dra705mtuk08ot90a78nfo4v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2DWE5ry0TFJFouTIpsNBreJ9hW4U_2aU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263531169838-4p251u46dra705mtuk08ot90a78nfo4v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
